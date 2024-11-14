@@ -22,7 +22,7 @@ The primary goal of this project is to enable **symbolic regression** using **ne
 
 ## Repository Structure
 - `models`: Contains the nonlinear and CNN models.
-- `mgopt_methods`: Contains the MGDrop and SMGDrop optimization algorithms. 
+- `train_test_methods`: Methods for training and testing the neural networks. 
 - `experiments/`: Scripts for running the experiments and generating the results found in the thesis. Each subfolder is a unique experiment.
 - `datasets`: Contains methods for loading and preprocessing the datasets used in the experiments.
 
